@@ -1,4 +1,4 @@
-# nextjs
+# nextjs (SSE)
 
 ```
 apt install npm
