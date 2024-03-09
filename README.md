@@ -1,1 +1,5 @@
 # nextjs
+
+```
+apt install npm
+```
