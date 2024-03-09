@@ -2,6 +2,7 @@
 
 ```
 apt install npm
+npx create-next-app nextapp
 ```
 
 ## Typescript
